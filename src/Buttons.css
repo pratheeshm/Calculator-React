@@ -1,0 +1,24 @@
+button{
+    height: 50px;
+    width: 50px;
+    background-color: #ff3da3;
+    color: #ffffff;
+    font-size: 20px;
+    border:1px solid #fa1b91;
+}
+button:last-child{
+    background-color: #c01faf;
+}
+button:nth-last-child(3){
+    width: 100px;
+}
+.buttons-container{
+    height: 250px;
+    width: 200px;
+}
+.button-long{
+    width: 100px;
+}
+button:active{
+    background:orange;
+}
