@@ -1,12 +1,12 @@
 .input{
-    height: 50px;
-    width: 200px;
+    height: 80px;
+    width: 400px;
     background-color: #ff0073;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 25px;
     text-align: right;
 }
 .input-data{
     margin-right: 20px;
-    line-height: 50px;
+    line-height: 80px;
 }
